@@ -4,4 +4,5 @@ this code for check internet is available or not available
 guard Reachability.isConnectedToNetwork() else {
            // if internet is not available
             return 
-        }
+       
+			 }
