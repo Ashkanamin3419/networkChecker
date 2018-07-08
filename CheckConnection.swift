@@ -1,6 +1,5 @@
 //
 //  CheckConnection.swift
-//  Azki.CEO
 //
 //  Created by Ashkan on 6/30/18.
 //  Copyright © 2018 Ashkan. All rights reserved.
